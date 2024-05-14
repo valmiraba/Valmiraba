@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **valmiraba/Valmiraba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  ![](https://i.pinimg.com/564x/a5/ce/7f/a5ce7fef4243266d9a51d94b8615d267.jpg)
